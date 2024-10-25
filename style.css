@@ -18,6 +18,11 @@ body {
 }
 
 .container {
+    margin: 30px auto;
+    padding: 0 30px;
+}
+
+.component {
     background-color: hsl(0, 0%, 100%);
     padding: 1.4rem;
     border-radius: 1.6rem;
